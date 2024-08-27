@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Francisco%20Bravo&reversal=false&section=header&textBg=false" alt="header" width="100%" />
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10&multiline=false&random=false&width=250&&center=true&lines=BackEnd+Engineer;Automation+Engineer" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10&multiline=false&random=false&width=250&&center=true&lines=BackEnd+Engineer" alt="Typing SVG" /></a>
 </p>
 
 <h2 align="center"> Bio  💡 </h2>
