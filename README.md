@@ -7,22 +7,20 @@
 <h2 align="center"> Bio  💡 </h2>
 
 <p align="center"> 
-Born in Malaga in 1997 I've always been passionate about technology. I used to earn some money as a kid fixing computers for people. Very soon I decided I would like to pursue a career in technology and started in this amazing and fascinating world of programming.
-</p>
-<p align="center">
-I'm an outgoing, friendly and highly motivated Engineer who prioritizes the final deliverable product over the language/technology utilized. Eager, quick learner, truly flexible and with exceptional communication and interpersonal skills. I thrive working both independently and as part of a team.
-</p>
-<p align="center">
-I have experience mainly working on node.js with typescript, exposing APIs and integrating third-party services like Salesforce, Fen-X or Looker into automation to make processes more efficient.
+High-leverage Backend & Cloud Engineer with deep experience in high-growth Fintech startups. Expert in architecting scalable Node.js/TypeScript and Python services within GCP and AWS environments. Specialized in REST API design (NestJS, Fastify, FastAPI) and Infrastructure as Code (Terraform) to build resilient, event-driven architectures. AI-augmented developer proficient in leveraging Large Language Models (LLMs) and agentic workflows to accelerate development cycles, automate documentation, and optimize code quality.
 </p>
 
 <h2 align="center"> Technologies  ⚙️ </h2>
 <p align="center">
     <img src="https://img.shields.io/badge/Typescript%20-%232F74C0.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
         &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+        &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
         &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Google Cloud%20-%232F74C0.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/>
+        &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
         &nbsp;&nbsp;
 </p>
 <p align="center">
