@@ -4,7 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10&multiline=false&random=false&width=285&&center=true&lines=BackEnd+/+Cloud+Engineer" alt="Typing SVG" /></a>
 </p>
 
-<h2 align="center"> Bio  💡 </h2>
+<h2 align="center"> About me  💡 </h2>
 
 <p align="center"> 
 High-leverage Backend & Cloud Engineer with deep experience in high-growth Fintech startups. Expert in architecting scalable Node.js/TypeScript and Python services within GCP and AWS environments. Specialized in REST API design (NestJS, Fastify, FastAPI) and Infrastructure as Code (Terraform) to build resilient, event-driven architectures. AI-augmented developer proficient in leveraging Large Language Models (LLMs) and agentic workflows to accelerate development cycles, automate documentation, and optimize code quality.
