@@ -123,7 +123,14 @@
 ## 📂 Featured Repositories
 
 <p align="center">
-  <i>A handful of public experiments and prototypes I've built to explore technologies, patterns, and ideas.</i>
+  <i>A running collection of experiments, prototypes, and daily technical notes.</i>
+</p>
+
+<p align="center">
+  <!-- til -->
+  <a href="https://github.com/fBravoBravo/til">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fBravoBravo&repo=til&theme=react&border_color=2C5364&title_color=A0E7E5&icon_color=A0E7E5&text_color=c9d1d9&bg_color=0d1117" />
+  </a>
 </p>
 
 <p align="center">
